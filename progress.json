@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T14:43:03.813Z",
+  "generated_at": "2026-10-16T14:43:06.406Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -13,6 +13,110 @@
       "last_pushed_at": "2026-06-02T10:55:36.331Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:309": {
+      "kind": "problem",
+      "id": "309",
+      "title": "Product Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/309",
+      "path": "problems/0309-product-rule-for-derivatives",
+      "first_solved_at": "2026-06-17T10:08:12.741Z",
+      "last_pushed_at": "2026-06-17T10:08:12.741Z",
+      "language": "python",
+      "lines": 69
+    },
+    "problem:312": {
+      "kind": "problem",
+      "id": "312",
+      "title": "Quotient Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/312",
+      "path": "problems/0312-quotient-rule-for-derivatives",
+      "first_solved_at": "2026-06-17T10:25:06.927Z",
+      "last_pushed_at": "2026-06-17T10:25:06.927Z",
+      "language": "python",
+      "lines": 57
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-06-17T10:41:10.482Z",
+      "last_pushed_at": "2026-06-17T10:41:10.482Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-06-17T10:42:49.354Z",
+      "last_pushed_at": "2026-06-17T10:42:49.354Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-06-17T10:46:20.706Z",
+      "last_pushed_at": "2026-06-17T10:46:20.706Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-06-17T10:55:35.647Z",
+      "last_pushed_at": "2026-06-17T10:55:35.647Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-06-17T11:00:32.759Z",
+      "last_pushed_at": "2026-06-17T11:00:32.759Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-06-17T11:11:24.908Z",
+      "last_pushed_at": "2026-06-17T11:11:24.908Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }

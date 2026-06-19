@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T14:43:09.255Z",
+  "generated_at": "2026-10-16T14:43:11.452Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -130,6 +130,58 @@
       "last_pushed_at": "2026-06-18T02:53:23.289Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:215": {
+      "kind": "problem",
+      "id": "215",
+      "title": "Partial Derivatives of Multivariable Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/215",
+      "path": "problems/0215-partial-derivatives-of-multivariable-functions",
+      "first_solved_at": "2026-06-19T02:32:29.075Z",
+      "last_pushed_at": "2026-06-19T02:32:29.075Z",
+      "language": "python",
+      "lines": 40
+    },
+    "problem:214": {
+      "kind": "problem",
+      "id": "214",
+      "title": "Chain Rule for Composite Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/214",
+      "path": "problems/0214-chain-rule-for-composite-functions",
+      "first_solved_at": "2026-06-19T02:54:18.895Z",
+      "last_pushed_at": "2026-06-19T02:54:18.895Z",
+      "language": "python",
+      "lines": 56
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2026-06-19T03:01:59.660Z",
+      "last_pushed_at": "2026-06-19T03:01:59.660Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-06-19T03:05:30.816Z",
+      "last_pushed_at": "2026-06-19T03:05:30.816Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }

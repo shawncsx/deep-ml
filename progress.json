@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T14:43:11.452Z",
+  "generated_at": "2026-10-16T14:43:13.755Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -182,6 +182,32 @@
       "last_pushed_at": "2026-06-19T03:05:30.816Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-06-21T03:50:30.612Z",
+      "last_pushed_at": "2026-06-21T03:50:30.612Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:202": {
+      "kind": "problem",
+      "id": "202",
+      "title": "Jacobian Matrix Calculation",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/202",
+      "path": "problems/0202-jacobian-matrix-calculation",
+      "first_solved_at": "2026-06-21T04:08:04.777Z",
+      "last_pushed_at": "2026-06-21T04:08:04.777Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }

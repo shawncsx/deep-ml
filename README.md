@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**17** solved · 17 problems · 0 labs · 0 math
+**20** solved · 17 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +29,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-06-19 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-06-17 | [solution](problems/0309-product-rule-for-derivatives) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-06-17 | [solution](problems/0312-quotient-rule-for-derivatives) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-10-16 | [solution](math/0001-derivatives-and-gradients) |
+| [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-16 | [solution](math/0007-vector-operations) |
+| [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-10-16 | [solution](math/0002-multivariate-calculus) |
 
 ---
 
